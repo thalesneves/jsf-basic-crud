@@ -1,0 +1,14 @@
+package br.com.testeproject.model;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import br.com.testeproject.abstracts.AbstractJSF;
+
+@Entity
+@Table(name="clientes")
+public class Cliente extends AbstractJSF implements Serializable, Comparable<Cliente>{
+
+}

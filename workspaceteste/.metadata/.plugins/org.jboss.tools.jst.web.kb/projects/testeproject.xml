@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/websocket-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/el-api.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper-el.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/com/google/protobuf/protobuf-java/2.6.0/protobuf-java-2.6.0.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jni.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-tribes.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/hibernate/hibernate-core/5.3.4.Final/hibernate-core-5.3.4.Final.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/com/fasterxml/classmate/1.3.4/classmate-1.3.4.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/primefaces/primefaces/6.2/primefaces-6.2.jar">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-6.2.jar/meta-inf/faces-config.xml" project="testeproject"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-6.2.jar/meta-inf/primefaces-p.taglib.xml" project="testeproject"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-6.2.jar/meta-inf/primefaces-pm.taglib.xml" project="testeproject"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util-scan.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/hibernate/hibernate-entitymanager/5.3.6.Final/hibernate-entitymanager-5.3.6.Final.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ant.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-api.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/annotations-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jdbc.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jaspic-api.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/junit/junit/4.12/junit-4.12.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/javax/enterprise/cdi-api/2.0.SP1/cdi-api-2.0.SP1.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/ecj-4.7.3a.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ha.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-coyote.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar"/>
+  <path value="C:/Users/ThalesdaSilva/.m2/repository/org/glassfish/javax.faces/2.2.12/javax.faces-2.2.12.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces-2.2.12.jar/meta-inf/html_basic.tld" project="testeproject"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces-2.2.12.jar/meta-inf/jsf_core.tld" project="testeproject"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces-2.2.12.jar/meta-inf/mojarra_ext.taglib.xml" project="testeproject"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces-2.2.12.jar/meta-inf/mojarra_ext.tld" project="testeproject"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ru.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="37" name="%0" offset="2624" path="%1"/>
+   <linked-el length="38" name="%0" offset="1407" path="%1"/>
+   <linked-el length="32" name="%0" offset="4836" path="%1"/>
+   <linked-el length="26" name="%0" offset="4583" path="%1"/>
+   <linked-el length="30" name="%0" offset="494" path="%1"/>
+   <linked-el length="40" name="%0" offset="718" path="%1"/>
+   <linked-el length="45" name="%0" offset="1646" path="%1"/>
+   <linked-el length="46" name="%0" offset="1868" path="%1"/>
+   <linked-el length="32" name="%0" offset="5484" path="%1"/>
+   <linked-el length="41" name="%0" offset="2251" path="%1"/>
+   <linked-el length="41" name="%0" offset="2443" path="%1"/>
+   <linked-el length="41" name="%0" offset="8019" path="%1"/>
+   <linked-el length="25" name="%0" offset="8181" path="%1"/>
+   <linked-el length="41" name="%0" offset="2067" path="%1"/>
+   <linked-el length="30" name="%0" offset="1052" path="%1"/>
+   <linked-el length="31" name="%0" offset="5628" path="%1"/>
+   <linked-el length="27" name="%0" offset="4763" path="%1"/>
+   <linked-el length="34" name="%2" offset="352" path="%3"/>
+   <linked-el length="36" name="%2" offset="526" path="%3"/>
+   <linked-el length="24" name="%4" offset="6310" path="%1"/>
+   <linked-el length="32" name="%4" offset="4836" path="%1"/>
+   <linked-el length="24" name="%4" offset="6343" path="%1"/>
+   <linked-el length="24" name="%4" offset="6457" path="%1"/>
+   <linked-el length="34" name="%5" offset="352" path="%3"/>
+   <linked-el length="36" name="%5" offset="526" path="%3"/>
+   <linked-el length="26" name="%6" offset="6595" path="%1"/>
+   <linked-el length="37" name="%6" offset="2624" path="%1"/>
+   <linked-el length="38" name="%6" offset="1407" path="%1"/>
+   <linked-el length="26" name="%6" offset="6734" path="%1"/>
+   <linked-el length="36" name="%6" offset="6862" path="%1"/>
+   <linked-el length="40" name="%6" offset="718" path="%1"/>
+   <linked-el length="24" name="%6" offset="6343" path="%1"/>
+   <linked-el length="46" name="%6" offset="1868" path="%1"/>
+   <linked-el length="41" name="%6" offset="2251" path="%1"/>
+   <linked-el length="41" name="%6" offset="2443" path="%1"/>
+   <linked-el length="25" name="%6" offset="8181" path="%1"/>
+   <linked-el length="36" name="%6" offset="6907" path="%1"/>
+   <linked-el length="37" name="%6" offset="7288" path="%1"/>
+   <linked-el length="31" name="%6" offset="5628" path="%1"/>
+   <linked-el length="24" name="%6" offset="6457" path="%1"/>
+   <linked-el length="24" name="%6" offset="6310" path="%1"/>
+   <linked-el length="26" name="%6" offset="6630" path="%1"/>
+   <linked-el length="37" name="%6" offset="7334" path="%1"/>
+   <linked-el length="32" name="%6" offset="4836" path="%1"/>
+   <linked-el length="36" name="%6" offset="7021" path="%1"/>
+   <linked-el length="26" name="%6" offset="4583" path="%1"/>
+   <linked-el length="33" name="%6" offset="7598" path="%1"/>
+   <linked-el length="30" name="%6" offset="494" path="%1"/>
+   <linked-el length="45" name="%6" offset="1646" path="%1"/>
+   <linked-el length="32" name="%6" offset="5484" path="%1"/>
+   <linked-el length="33" name="%6" offset="7763" path="%1"/>
+   <linked-el length="41" name="%6" offset="8019" path="%1"/>
+   <linked-el length="41" name="%6" offset="2067" path="%1"/>
+   <linked-el length="33" name="%6" offset="7640" path="%1"/>
+   <linked-el length="30" name="%6" offset="1052" path="%1"/>
+   <linked-el length="37" name="%6" offset="7449" path="%1"/>
+   <linked-el length="27" name="%6" offset="4763" path="%1"/>
+   <linked-el length="26" name="%7" offset="6595" path="%1"/>
+   <linked-el length="37" name="%7" offset="2624" path="%1"/>
+   <linked-el length="38" name="%7" offset="1407" path="%1"/>
+   <linked-el length="26" name="%7" offset="6630" path="%1"/>
+   <linked-el length="37" name="%7" offset="7334" path="%1"/>
+   <linked-el length="36" name="%7" offset="7021" path="%1"/>
+   <linked-el length="26" name="%7" offset="6734" path="%1"/>
+   <linked-el length="36" name="%7" offset="6862" path="%1"/>
+   <linked-el length="33" name="%7" offset="7598" path="%1"/>
+   <linked-el length="30" name="%7" offset="494" path="%1"/>
+   <linked-el length="40" name="%7" offset="718" path="%1"/>
+   <linked-el length="45" name="%7" offset="1646" path="%1"/>
+   <linked-el length="46" name="%7" offset="1868" path="%1"/>
+   <linked-el length="41" name="%7" offset="2251" path="%1"/>
+   <linked-el length="41" name="%7" offset="2443" path="%1"/>
+   <linked-el length="33" name="%7" offset="7763" path="%1"/>
+   <linked-el length="41" name="%7" offset="2067" path="%1"/>
+   <linked-el length="36" name="%7" offset="6907" path="%1"/>
+   <linked-el length="37" name="%7" offset="7288" path="%1"/>
+   <linked-el length="33" name="%7" offset="7640" path="%1"/>
+   <linked-el length="30" name="%7" offset="1052" path="%1"/>
+   <linked-el length="37" name="%7" offset="7449" path="%1"/>
+   <linked-el length="37" name="%8" offset="2624" path="%1"/>
+   <linked-el length="38" name="%8" offset="1407" path="%1"/>
+   <linked-el length="37" name="%8" offset="7334" path="%1"/>
+   <linked-el length="33" name="%8" offset="7598" path="%1"/>
+   <linked-el length="45" name="%8" offset="1646" path="%1"/>
+   <linked-el length="46" name="%8" offset="1868" path="%1"/>
+   <linked-el length="41" name="%8" offset="2251" path="%1"/>
+   <linked-el length="41" name="%8" offset="2443" path="%1"/>
+   <linked-el length="33" name="%8" offset="7763" path="%1"/>
+   <linked-el length="41" name="%8" offset="2067" path="%1"/>
+   <linked-el length="37" name="%8" offset="7288" path="%1"/>
+   <linked-el length="33" name="%8" offset="7640" path="%1"/>
+   <linked-el length="37" name="%8" offset="7449" path="%1"/>
+   <linked-el length="13" name="%9" offset="8161" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/testeproject/src/main/java/br/com/testeproject/model/Cliente.java" value="%7"/>
+  <alias
+   path="/testeproject/src/main/java/br/com/testeproject/model/Endereco.java" value="%8"/>
+  <alias path="cliente" value="%9"/>
+  <alias path="menuBean" value="%2"/>
+  <alias
+   path="/testeproject/src/main/java/br/com/testeproject/beans/ClienteBean.java" value="%0"/>
+  <alias path="/testeproject/src/main/webapp/pages/clientes.xhtml" value="%1"/>
+  <alias
+   path="/testeproject/src/main/java/br/com/testeproject/abstracts/AbstractJSF.java" value="%4"/>
+  <alias path="clienteBean" value="%6"/>
+  <alias
+   path="/testeproject/src/main/java/br/com/testeproject/beans/MenuBean.java" value="%5"/>
+  <alias path="/testeproject/src/main/webapp/pages/menu.xhtml" value="%3"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+  <uri value="http://primefaces.org/ui">
+   <prefix>p</prefix>
+  </uri>
+ </uris>
+</kb-project>

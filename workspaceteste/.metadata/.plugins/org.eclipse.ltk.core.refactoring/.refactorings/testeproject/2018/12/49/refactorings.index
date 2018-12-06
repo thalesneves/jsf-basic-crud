@@ -1,0 +1,17 @@
+1544039018047	Move 'clientes.xhtml' to 'pages'
+1544039021326	Move 'layout.xhtml' to 'pages'
+1544040083458	Rename resource 'menu.xhtml'
+1544040471738	Move 'layout.xhtml' to 'webapp'
+1544040512913	Move 'layout.xhtml' to 'pages'
+1544041418264	Rename resource 'layout.xhtml'
+1544041437767	Rename resource 'layout-menu.xhtml'
+1544041540022	Rename resource 'header.xhtml'
+1544043059272	Copy compilation unit
+1544043063766	Delete element
+1544043113924	Rename package 'br.com.testeproject.exception'
+1544047558903	Move 'images' to 'webapp'
+1544048377319	Move 'index.xhtml' to 'pages'
+1544048496255	Move 'index.xhtml' to 'webapp'
+1544054956322	Move 'locales.js' to 'resources'
+1544054959585	Move 'style.css' to 'resources'
+1544057292213	Delete element

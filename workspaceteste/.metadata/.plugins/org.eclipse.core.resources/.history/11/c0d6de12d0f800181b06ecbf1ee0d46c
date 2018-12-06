@@ -1,0 +1,5 @@
+package br.com.testeproject.model;
+
+public class Cliente {
+
+}

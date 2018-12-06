@@ -1,0 +1,31 @@
+package br.com.testeproject.model;
+
+import java.io.Serializable;
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
+
+import br.com.testeproject.abstracts.AbstractJSF;
+
+@Entity
+@Table(name="clientes")
+public class Cliente extends AbstractJSF implements Serializable, Comparable<Cliente>{
+
+	private static final long serialVersionUID = 3012597861711578216L;
+
+	@Column(name="nome", length = 80)
+	private String nome;
+	
+	@Temporal(TemporalType.DATE)
+	@Column(name = "dataNascimento", length = 10, nullable = false)
+	private Date dataNascimento;
+	
+	@ManyToOne(fetch = FetchType.EAGER, cascade = CascadeType.ALL, optional = false)
+	@JoinColumn(name = "idEndereco", nullable = false ,foreignKey = @ForeignKey(name = "fk_cliente_endereco"))
+	private Endereco endereco;
+
+}

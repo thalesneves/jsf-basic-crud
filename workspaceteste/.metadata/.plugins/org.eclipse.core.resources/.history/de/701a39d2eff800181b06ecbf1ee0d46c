@@ -1,0 +1,10 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+				xmlns:h="http://xmlns.jcp.org/jsf/html"
+				xmlns:ui="http://java.sun.com/jsf/facelets"
+				xmlns:p="http://primefaces.org/ui" >
+    
+    <div id="layout-topbar">
+        <p:graphicImage value="../images/java-logo.jpg" style="height:60px;  margin-top:18px;" />
+    </div>
+    
+</ui:composition>

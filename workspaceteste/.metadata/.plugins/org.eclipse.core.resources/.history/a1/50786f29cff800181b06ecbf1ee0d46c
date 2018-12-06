@@ -1,0 +1,5 @@
+package br.com.testeproject.connections;
+
+public class ConnectionFactory {
+
+}
