@@ -1,10 +1,10 @@
 package br.com.testeproject.beans;
 
 import javax.faces.bean.ManagedBean;
-import javax.faces.bean.ViewScoped;
+import javax.faces.bean.SessionScoped;
 
 @ManagedBean
-@ViewScoped
+@SessionScoped
 public class MenuBean {
 
 	public String redirecionarIndex() {
